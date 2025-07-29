@@ -310,9 +310,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2387,
+            "size": 2386,
             "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/config/defaultoptions/options.txt",
-            "MD5": "c259e24aa5ec6ff52fb8f8c90f972284",
+            "MD5": "db5fe45d3f10471f383fbf83f210264f",
             "path": "config/defaultoptions/options.txt"
           }
         },
