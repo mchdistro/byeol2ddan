@@ -136,12 +136,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 376047,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/authme-fabric-9.0.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
             "MD5": "3c220399e5c34dae32224818c7acaa6c"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -150,12 +146,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 605575,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/balm-fabric-1.21.4-21.4.36.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/balm-fabric-1.21.4-21.4.36.jar",
             "MD5": "33618cde90ab3c36408fabb1c8651235"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -164,12 +156,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -178,11 +166,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80793,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionalon/cwb-fabric-3.0.0+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
             "MD5": "4278e7e73cb1337e3a198f1c5b921887"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -191,12 +176,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 98192,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/defaultoptions-fabric-1.21.4-21.4.5.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/defaultoptions-fabric-1.21.4-21.4.5.jar",
             "MD5": "e0b4098324c1d946864e5d3ade95046c"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -215,11 +196,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 107026,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionalon/ferritecore-7.1.1-fabric.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/ferritecore-7.1.1-fabric.jar",
             "MD5": "cddea62080b823c0c55f72408a0c3ffb"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -228,11 +206,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 224739,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionalon/ImmediatelyFast-Fabric-1.8.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/ImmediatelyFast-Fabric-1.8.1+1.21.4.jar",
             "MD5": "5e7300090f35d5b3f54c6ebeb536e649"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -281,11 +256,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 797555,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionalon/lithium-fabric-0.15.3+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/lithium-fabric-0.15.3+mc1.21.4.jar",
             "MD5": "7a3a807eed9c4868fbe14cecd8bb082d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -294,12 +266,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 321286,
-            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
             "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
