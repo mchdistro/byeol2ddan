@@ -159,6 +159,20 @@
           }
         },
         {
+          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.2@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11418,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.fabricmod:cubes-without-borders:3.0.0+mc1.21.3@jar",
           "name": "Cubes Without Borders",
           "type": "FabricMod",
@@ -272,6 +286,20 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.aizistral:nochatreports:1.21.4-v2.11.0@jar",
+          "name": "No Chat Reports",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 321286,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/optionaloff/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+            "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
