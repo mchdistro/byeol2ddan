@@ -264,6 +264,39 @@
             "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
+        },
+        {
+          "id": "keybindings.txt",
+          "name": "keybindings.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2874,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/config/defaultoptions/keybindings.txt",
+            "MD5": "6dff6b8d3281a21378c7c85fcf195f56",
+            "path": "config/defaultoptions/keybindings.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2387,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/config/defaultoptions/options.txt",
+            "MD5": "c259e24aa5ec6ff52fb8f8c90f972284",
+            "path": "config/defaultoptions/options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 186,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/config/defaultoptions/servers.dat",
+            "MD5": "cf1a99dc4bc094b3fb8752b8928177cb",
+            "path": "config/defaultoptions/servers.dat"
+          }
         }
       ]
     }
