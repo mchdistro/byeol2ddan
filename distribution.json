@@ -322,6 +322,94 @@
             "MD5": "cf1a99dc4bc094b3fb8752b8928177cb",
             "path": "config/defaultoptions/servers.dat"
           }
+        },
+        {
+          "id": "AstraLex_v93.0.zip",
+          "name": "AstraLex_v93.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/AstraLex_v93.0.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/AstraLex_v93.0.zip"
+          }
+        },
+        {
+          "id": "BSL_v10.0.zip",
+          "name": "BSL_v10.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1121678,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/BSL_v10.0.zip",
+            "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
+            "path": "shaderpacks/BSL_v10.0.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.5.1.zip",
+          "name": "ComplementaryReimagined_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456328,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "MD5": "e49c87af1c2bb64337068f6928f06bff",
+            "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "MakeUp-UltraFast-9.3a.zip",
+          "name": "MakeUp-UltraFast-9.3a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 379487,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/MakeUp-UltraFast-9.3a.zip",
+            "MD5": "2545519670611a72b8f245a06bb72b38",
+            "path": "shaderpacks/MakeUp-UltraFast-9.3a.zip"
+          }
+        },
+        {
+          "id": "Noble v1.8.3.zip",
+          "name": "Noble v1.8.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11480653,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/Noble%20v1.8.3.zip",
+            "MD5": "8d576a1f896c1b348293559ac2459a2c",
+            "path": "shaderpacks/Noble v1.8.3.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.53 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v1.53 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142561,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.53%20Lite.zip",
+            "MD5": "1567d54019b3a219880e13dcc050fee8",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.53 Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.53 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.53 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142562,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.53%20Medium.zip",
+            "MD5": "37af59c170b5638ebc0c6261a2d1eea1",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.53 Medium.zip"
+          }
         }
       ]
     }
