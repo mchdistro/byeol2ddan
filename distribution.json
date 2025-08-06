@@ -324,6 +324,17 @@
           }
         },
         {
+          "id": "NCR-Client.json",
+          "name": "NCR-Client.json",
+          "type": "File",
+          "artifact": {
+            "size": 565,
+            "url": "https://github.com/mchdistro/byeol2ddan/raw/main/servers/byeol2ddan-1.21.4/files/config/NoChatReports/NCR-Client.json",
+            "MD5": "2fdc21dc322f4b67a6ddf00139dd5b85",
+            "path": "config/NoChatReports/NCR-Client.json"
+          }
+        },
+        {
           "id": "AstraLex_v93.0.zip",
           "name": "AstraLex_v93.0.zip",
           "type": "File",
